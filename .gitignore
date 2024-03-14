@@ -98,3 +98,4 @@ all_the_data
 logs.log
 .venv
 .pemkey
+.vscode

@@ -4,7 +4,8 @@
 In order to run this script you will need to be in the root directory of the project and run:
  ```pip3 install -r requirements.txt
     brew tap hashicorp/tap
-    brew install hashicorp/tap/terraform```
+    brew install hashicorp/tap/terraform
+```
 
 
 Then you will need to set-up the database, this will be done through terraform, you will need to create file called 'terraform.tfvars' with the following information:
